@@ -11,14 +11,14 @@ Há duas interações simples a serem feitas:
 
 # Requisitos
 
-Usar Vue.js versão 3 como lib de front-end
-Seguir minimamente o layout
-Realizar as duas interações necessárias
+- Usar Vue.js versão 3 como lib de front-end
+- Seguir minimamente o layout
+- Realizar as duas interações necessárias
 
 # Desejável
 
-Uso do Tailwind
-Usar a composition API do Vue
+- Uso do Tailwind
+- Usar a composition API do Vue
 
 # Obs
 
@@ -27,7 +27,7 @@ Se quiser usar o Nuxt para facilitar o setup, fique a vontade.
 
 # Como enviar?
 
-Fork no repositório e envie como pull request ou nos passe por e-mail o link do seu repositório
+Fork no repositório e envie como pull request ou nos passe por e-mail ou wpp o link do seu repositório
 
 
 
