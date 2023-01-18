@@ -23,6 +23,7 @@ Há duas interações simples a serem feitas:
 # Obs
 
 Não é necessário usar um gerenciador de estado como o Vuex. Os estados podem ser gerenciados no próprio componente.
+
 Se quiser usar o Nuxt para facilitar o setup, fique a vontade. 
 
 # Como enviar?
