@@ -24,6 +24,8 @@ Há duas interações simples a serem feitas:
 
 Não é necessário usar um gerenciador de estado como o Vuex. Os estados podem ser gerenciados no próprio componente.
 
+Não se preocupe em persistir os dados em algum banco de dados ou fazer uso de qualquer api externa. Deixe na memória mesmo.
+
 Se quiser usar o Nuxt para facilitar o setup, fique a vontade. 
 
 # Como enviar?
